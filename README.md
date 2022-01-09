@@ -17,4 +17,4 @@ pip install pydub
 
 ## How to use
 
-Rename your music file to **music.wav** or **music.mp3** and put it in the same folder as the **main.py** file. Run the **main.py** file. The edited music file will be auto-saved in the same folder.
+Rename your music file to **music.wav** or **music.mp3** and put it in the same folder as the **main.py** file. Run the **main.py** file. The edited music file will be auto-saved in the same folder as a **mp3** file.
