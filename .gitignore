@@ -1,2 +1,4 @@
 venv
-**.mp3
+__pycache__
+*.wav
+*.mp3
